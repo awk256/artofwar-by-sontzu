@@ -64,7 +64,7 @@ AIは、**高速かつ大量の判断を可能にする技術**です。
 - RDB技術者のためのNoSQLガイド（共著）、秀和システム新社、2016
 - [図解 Strandsエージェント徹底解説](https://github.com/awk256/strandsagents)、2026（Web公開※）  
 - [図解 Amazon Bedrock徹底解説](https://github.com/awk256/amazon-bedrock)、2026（Web公開※）  
-- [孫子の五事で解く安全なAI活用の意思決定](https://github.com/awk256/TheArtOfWarBySunTzu)、2026（Web公開※）
+- [孫子の五事で解く安全なAI活用の意思決定](https://github.com/awk256/TheArtOfWarBySunTzu)、2026（Web公開※）<br>
  ※本書は紙での出版予定はありません。
 <br>
 
